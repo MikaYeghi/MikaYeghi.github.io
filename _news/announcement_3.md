@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the HSL lab at CMU!
+I will join the Human Sensing Lab at CMU!

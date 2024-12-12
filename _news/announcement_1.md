@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining the ACRL lab at UIUC!
+I will join the Advanced Controls Research Laboratory at UIUC!
