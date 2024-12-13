@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join the Human Sensing Lab at CMU!
+I joined the Human Sensing Lab at CMU as a research assistant!

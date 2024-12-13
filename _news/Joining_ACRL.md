@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join the Advanced Controls Research Laboratory at UIUC!
+I joined the Advanced Controls Research Laboratory at UIUC as a research assistant!
