@@ -60,4 +60,5 @@ The following coding was used:
 
 ## Publication
 
-TO DO
+<!-- [Download PDF](../../assets/pdf/CV.pdf) -->
+This work will be submitted to the International Conference on Image Processing 2025.
