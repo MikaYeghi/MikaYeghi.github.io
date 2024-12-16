@@ -41,4 +41,4 @@ In conclusion, the MiniHawk is able to safely navigate urban environments, even 
 
 ## Publication
 
-This work has been published in [AIAA SciTech Forum and Exposition 2025](https://www.aiaa.org/SciTech).
+This work has been published in [AIAA SciTech Forum and Exposition 2025](https://www.aiaa.org/SciTech). See the paper in the [publications page](../../publications).
