@@ -3,7 +3,7 @@ layout: page
 title: VTOL Landing Verification
 description: Verification and validation of a vision-based landing system for an autonomous VTOL vehicle.
 img: assets/img/projects/VNV/Preview_Image.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

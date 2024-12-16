@@ -3,7 +3,7 @@ layout: page
 title: AirTaxiSim
 description: High-fidelity simulator for air taxis in cluttered urban environments.
 img: assets/img/projects/AirTaxiSim/AirTaxiSim.png
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
