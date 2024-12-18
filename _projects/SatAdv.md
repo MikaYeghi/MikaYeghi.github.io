@@ -61,4 +61,4 @@ The following coding was used:
 ## Publication
 
 <!-- [Download PDF](../../assets/pdf/CV.pdf) -->
-This work will be submitted to the International Conference on Image Processing 2025.
+This work will be submitted to the International Conference on Image Processing 2025. See the PDF version of this work [here](../../assets/pdf/SatAdv.pdf).
