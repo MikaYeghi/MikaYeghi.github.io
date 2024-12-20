@@ -10,7 +10,7 @@ related_publications: false
 
 ## Project Description
 
-How can individuals protect their vehicles from being detected by satellites or drones? Since accessing and manipulating aerial system images isn't feasible, alternative methods are needed. One approach is to use [adversarial stickers](https://arxiv.org/abs/2108.11765), but these are often ineffective against low-resolution systems typically employed in aerial surveillance. A more promising strategy involves modifying the vehicle itself to evade detection, even at lower resolutions. This project explores practical ways to achieve this goal.
+How can individuals protect their vehicles from being detected by satellites or drones? Since accessing and manipulating aerial system images is not feasible, alternative methods are needed. One approach is to use [adversarial stickers](https://arxiv.org/abs/2108.11765), but these are often ineffective against low-resolution systems typically employed in aerial surveillance. A more promising strategy involves modifying the vehicle itself to evade detection, even at lower resolutions. This project explores practical ways to achieve this goal.
 
 ## Method
 
@@ -22,12 +22,13 @@ We make vehicles harder to detect by aerial systems in three steps. First, we ch
     </div>
 </div>
 <div class="caption">
-    Overview of the pipeline. Note the trade-off between performance of the attacks, i.e. adversariality against the detectors, and practicality, i.e. feasibility of the modifications.
+    Pipeline overview illustrating the trade-off between attack performance and practical feasibility.
 </div>
 
 ## Results
 
-Our experiments revealed a trade-off between the performance and practicality of adversarial modifications. Our results suggest that it is most beneficial to combine texture modifications with very minor shape modifications. This allows to avoid making too large modifications to the original vehicle, but achieves almost 100% performance in fooling the vehicle detectors in aerial systems. See example adversarial vehicles below.
+<!-- Our experiments revealed a trade-off between the performance and practicality of adversarial modifications. Our results suggest that it is most beneficial to combine texture modifications with very minor shape modifications. This allows to avoid making too large modifications to the original vehicle, but achieves almost 100% performance in fooling the vehicle detectors in aerial systems. See example adversarial vehicles below. -->
+Our experiments demonstrated a clear trade-off between the performance and practicality of adversarial modifications. See example adversarial vehicles below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,18 +48,19 @@ Our experiments revealed a trade-off between the performance and practicality of
     Shape and combined attacks.
 </div>
 
-The following coding was used:
-- A --- adversarially optimized
-- R --- randomly generated
-- U --- unconstrained
-- Ma --- masked, i.e. the area of the adversarial textures was limited
-- Fc --- fixed colors, i.e. the color palette was limited to 5 pre-selected colors
-- Lc --- limited colors, i.e. the number of colors was fixed, but the colors themselves were optimized during the adversarial optimization
-- Pix --- pixelization
-- seq. --- sequential attack, i.e. the adversarial texture was obtained prior to optimizing for the adversarial shape
-- par. --- parallel attack, i.e. adversarial texture and shape were optimized simultaneously
+The coding scheme used in our experiments is as follows:
+
+- **A**: Adversarially optimized
+- **R**: Randomly generated
+- **U**: Unconstrained
+- **Ma**: Masked, meaning the area of adversarial textures was restricted
+- **Fc**: Fixed colors, where the color palette was limited to five pre-selected colors
+- **Lc**: Limited colors, where the number of colors was fixed but optimized during adversarial optimization
+- **Pix**: Pixelization applied to textures
+- **seq**.: Sequential attack, where the adversarial texture was optimized first, followed by the shape
+- **par**.: Parallel attack, where both texture and shape were optimized simultaneously
 
 ## Publication
 
 <!-- [Download PDF](../../assets/pdf/CV.pdf) -->
-This work will be submitted to the International Conference on Image Processing 2025. See the PDF version of this work [here](../../assets/pdf/SatAdv.pdf).
+You can access the PDF version of this work [here](../../assets/pdf/SatAdv.pdf). This work is scheduled to appear on arXiv soon.
