@@ -63,6 +63,15 @@ You can perform the following actions with the robot:
     The videos above show Vicon-captured data from a top-down view, with the camera positioned to the left. On the left, the video displays the complete trajectory flown by the drone, while the video on the right focuses on the segment of the trajectory where the drone is executing the ellipse shape.
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/projects/LangCrazyflie/video_ellipse_shape.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Video of the drone's flight segment tracing an ellipse shape.
+</div>
+
 See the conversation, including the inner communication of the graph, below:
 
 ```
@@ -135,6 +144,15 @@ The robot has navigated to the center of the room and landed successfully.
     The videos above show Vicon-captured data from a top-down view, with the camera positioned to the left. On the left, the video displays the complete trajectory flown by the drone, while the video on the right focuses on the segment of the trajectory where the drone is executing the heart shape.
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/projects/LangCrazyflie/video_heart_shape.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Video of the drone's flight segment tracing a heart shape.
+</div>
+
 See the conversation, including the inner communication of the graph, below:
 
 ```
@@ -205,6 +223,15 @@ The robot has been navigated to the center of the room and has successfully land
 </div>
 <div class="caption">
     The videos above show Vicon-captured data from a top-down view, with the camera positioned to the left. On the left, the video displays the complete trajectory flown by the drone, while the video on the right focuses on the segment of the trajectory where the drone is executing a Lissajous curve.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/projects/LangCrazyflie/video_lissajous_shape.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Video of the drone's flight segment tracing a Lissajous curve.
 </div>
 
 See the conversation, including the inner communication of the graph, below:
