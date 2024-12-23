@@ -37,7 +37,7 @@ To generate and trace a trajectory, the AI agent begins by writing a Python func
 
 ## Results
 
-See the results of the experiments below. In all experiments, the following system prompt was used:
+In all experiments, the following system prompt was used:
 ```
 You are a helpful assistant who controls a flying robot. 
 Make sure you always fly at 1 meter height, unless explicitly told otherwise. 
@@ -48,6 +48,8 @@ You can perform the following actions with the robot:
 - obtain the robot's current position
 - fly the robot along a described shape
 ```
+
+See the results of the experiments below. See high-resolution videos of the experiments [here](https://drive.google.com/drive/folders/1eaKdlPKpDgAem3GAKbQqTACto7Ulo1DF?usp=sharing).
 
 #### Ellipse (Easy)
 
