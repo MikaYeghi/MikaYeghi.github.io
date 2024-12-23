@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - MikaYeghi/LangCrazySwarm
   - MikaYeghi/aerial_robotics
   - MikaYeghi/satellite-image-classification
   - MikaYeghi/MNIST-dataset
