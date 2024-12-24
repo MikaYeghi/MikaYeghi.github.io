@@ -63,4 +63,4 @@ The coding scheme used in our experiments is as follows:
 ## Publication
 
 <!-- [Download PDF](../../assets/pdf/CV.pdf) -->
-You can access the PDF version of this work [here](../../assets/pdf/SatAdv.pdf). This work is scheduled to appear on arXiv soon.
+You can access the PDF version of this work [here](../../publications).
