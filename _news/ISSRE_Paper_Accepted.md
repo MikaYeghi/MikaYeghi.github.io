@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-07-11 12:59:00-0400
+inline: true
+related_posts: false
+---
+
+Our paper "Synergistic Simplex: Cooperative Runtime Assurance for Safety-Critical Autonomous Systems" was accepted at ISSRE 2026!

@@ -2,23 +2,23 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant @ UIUC
+subtitle: PhD Student @ UIUC
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 3043</p>
-    <p>1206 W. Green St. MC 244</p>
-    <p>Urbana, IL 61801</p>
+    <p>Office 4113</p>
+    <p>201 N. Goodwin Avenue</p>
+    <p>Urbana, IL 61801-2302</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Assistant in the Advanced Controls Research Laboratory (ACRL) at the **University of Illinois Urbana-Champaign**. Previously, I was a Research Assistant at **Carnegie Mellon University** in the Human Sensing Lab. I earned my Bachelor's and Master's degrees in Engineering Science from the **University of Oxford**.
+I am a CS PhD student at the **University of Illinois Urbana-Champaign**, advised by Lui Sha, Naira Hovakimyan, and Tarek Abdelzaher. Previously, I was a researcher at the **Center for Scientific Innovation and Education (CSIE)** in Yerevan, Armenia, a Research Assistant in the Advanced Controls Research Laboratory (ACRL) at UIUC, and a Research Assistant at **Carnegie Mellon University** in the Human Sensing Lab. I earned my Bachelor's and Master's degrees in Engineering Science from the **University of Oxford**.
 
 My research focuses on developing robust and trustworthy multi-modal AI. I have mainly worked with vision and language, but I am open to exploring other modalities as well. Feel free to reach out for collaboration opportunities.
 
